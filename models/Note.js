@@ -1,5 +1,5 @@
 //haha Note.js do you get it DO YOU GET IT????? Its like Node.js but t inst.. aah fuck it what am i even doing i wish i'd never been born
-
+//
 const mongoose = require('mongoose')
 const AutoIncrement = require('mongoose-sequence')(mongoose)  //this is what thats been documented for this package
 const noteSchema = new mongoose.Schema(

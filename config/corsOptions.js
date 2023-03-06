@@ -11,5 +11,5 @@ const corsOptions = {
     credentials: true,
     optionsSuccessStatus: 200
 }
-
+// added callback for global pages
 module.exports = corsOptions;

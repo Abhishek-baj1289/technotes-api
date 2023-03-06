@@ -4,3 +4,4 @@ const allowedOrigins = [
     'https://technotes-xrw3.onrender.com/'
 ]
 module.exports = allowedOrigins; 
+// added some public 
